@@ -1,0 +1,14 @@
+﻿UNIT_CODE,UNIT_TITLE,UNIT_TYPE,CREDIT,SEMESTER,PREREQUISITES_1,PREREQUISITES_2
+BEO6000,Data Analysis for Business,Core,12,3,,
+BAO6504,Accounting for Management,Core,12,1,,
+BEO6600,Business Economics,Core,12,2,,
+BCO7002,Experience Management,Core,12,4,,
+BCO7006,Coding for Business Analytics,Core,12,1,,
+BCO7007,Machine Learning,Core,12,2,BC07000,BCO7006
+BCO7000,Business Analytics,Core,12,1,,
+BCO7005,Data Security and Governance,Core,12,2,,
+BCO6008,Predictive Analytics,Core,12,2,BCO7006,
+BCO7003,Analytics Project M anagement,Core,12,1,,
+BCO7004,Business Data Mining and Warehousing,Core,12,4,,
+"	
+WOM1000",Women in STEM,Elective,12,1,,
